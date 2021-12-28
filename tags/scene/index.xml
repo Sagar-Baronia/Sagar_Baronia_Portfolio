@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Sagar Baronia</title>
+    <link>https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Sagar Baronia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project - DonorsChoose</title>
+      <link>https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 12 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/post/project-2/</guid>
+      <description>DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it&amp;rsquo;s approved to be posted on the DonorsChoose.org website. Next year, DonorsChoose.org expects to receive close to 500,000 project proposals. As a result, there are three main problems they need to solve:
+ How to scale current manual processes and resources to screen 500,000 projects so that they can be posted as quickly and as efficiently as possible How to increase the consistency of project vetting across different volunteers to improve the experience for teachers How to focus volunteer time on the applications that need the most assistance The goal of the competition is to predict whether or not a DonorsChoose.</description>
+    </item>
+    
+    <item>
+      <title>Yet to Come</title>
+      <link>https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/Sagar_Baronia_Portfolio/post/project-1/</guid>
+      <description>This work is under progress.</description>
+    </item>
+    
+  </channel>
+</rss>
